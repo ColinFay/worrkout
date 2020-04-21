@@ -1,0 +1,35 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# worrkout
+
+Generate and post workouts as a issue to a GitHub repo. 
+
+> Note: obviously I'm neither a profesional athlete (in case you haven't met me before), nor a professional trainer, so in case this needs to be said, please use these for "fun" workout, and with care (and of course at your own risk).
+
+```{r}
+library(worrkout)
+cat(generate_workout(6))
+```
+
+```{r eval = FALSE}
+post_workout(
+  generate_workout(12), 
+  repo = "workouts", 
+  owner = "ColinFay"
+)
+```
+
+

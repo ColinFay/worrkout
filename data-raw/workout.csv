@@ -1,0 +1,30 @@
+type,description,val,unit,complexity," inside",pics
+Jumping rope,Jumping Rope,100," jump"," 1","FALSE",https://mir-s3-cdn-cf.behance.net/project_modules/disp/de52fe43854943.57ff21da18eb1.gif
+Bodyweight,Plank," 45",seconds," 1","TRUE ",https://thumbs.gfycat.com/OpulentZanyBumblebee-size_restricted.gif
+Bodyweight,Squat,16,x,1,"TRUE",https://thumbs.gfycat.com/SentimentalRecentGoldenretriever-size_restricted.gif
+Bodyweight,Lunge,16,x / each side,1,"TRUE",https://media0.giphy.com/media/l3q2Q3sUEkEyDvfPO/giphy.gif
+Bodyweight,"Single-Leg Bridge
+",16,x / each side,1,"TRUE",https://thumbs.gfycat.com/InfiniteMealyErin-small.gif
+Bodyweight,Glute Bridge,16,x / each side,1,"TRUE",https://thumbs.gfycat.com/ConcernedPointedHornet-size_restricted.gif
+Bodyweight,Plyo Lunge,16,x / each side,1,"TRUE",https://media.giphy.com/media/l3q2Q3sUEkEyDvfPO/giphy.gif
+Bodyweight,"Mountain Climber
+",16,x / each side,1,"TRUE",https://media1.tenor.com/images/10c312086cb391b4d048705b11bf8ae3/tenor.gif?itemid=14271453
+KettleBell,Russian Twist,16,"x ",1,"TRUE",https://thumbs.gfycat.com/FirstEvenFlea-size_restricted.gif
+Bodyweight,Leg Lift,16,x,1,"TRUE",https://thumbs.gfycat.com/SickBrownIsabellinewheatear-max-1mb.gif
+Bodyweight,Bicycle Crunch,16,x / each side,1,"TRUE",https://thumbs.gfycat.com/CheapMadeupLeafhopper-size_restricted.gif
+Bodyweight,Push-Up,8,x,1,"TRUE",https://media.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif
+Bodyweight,Crawl Out to Pushup,8,x,1,"TRUE",https://thumbs.gfycat.com/ImmenseYawningAxolotl-small.gif
+Bodyweight,Crawl Out to Pushup to mountain climber,8,x,1,"TRUE",https://thumbs.gfycat.com/IdenticalNervousBarb-small.gif
+Bodyweight,Plank March,16,x,1,"TRUE","https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_480,h_270/https://dylankyang.com/wp-content/uploads/2019/05/Marching-Planks-GIF-downsized_large.gif"
+Abs wheel,Abs roll,8,x,"1 ","TRUE",https://thumbs.gfycat.com/FrenchVictoriousBat-small.gif
+Bodyweight,sit up,16,x,1,"TRUE",https://media.giphy.com/media/FvfUDSqHruCDm/giphy.gif
+KettleBell,Swing One hand,16,x / each side,1,"TRUE",https://thumbs.gfycat.com/AnxiousPepperyKronosaurus-size_restricted.gif
+KettleBell,Goblet squat,16,x,1,"TRUE",https://www.sport-equipements.fr/wp-content/uploads/2019/06/giphy.gif
+KettleBell,Turkish get up,4,x / each side,1,"TRUE",https://thumbs.gfycat.com/WillingNeighboringArmedcrab-small.gif
+KettleBell,"KettleBell clean ",16,x / each side,1,"TRUE",https://www.sport-equipements.fr/wp-content/uploads/2018/04/kb-clean.gif
+KettleBell,KettleBell Snatch,16,x / each side,1,"TRUE",https://www.sport-equipements.fr/wp-content/uploads/2018/04/goblet-snatch-kb.gif
+KettleBell,Deadlift,16,x / each side,1,"TRUE",https://www.sport-equipements.fr/wp-content/uploads/2018/04/sl-dl.gif
+KettleBell,Single Arm Press,16,x / each side,1,"TRUE",https://www.sport-equipements.fr/wp-content/uploads/2018/04/ezgif.com-resize.gif
+KettleBell,Push ups,8,x,1,"TRUE",https://www.sport-equipements.fr/wp-content/uploads/2018/04/push-press.gif
+KettleBell,8,16,x,1,"TRUE",https://i.pinimg.com/originals/5b/7e/5e/5b7e5ec145c4a29902afc1a71e1f0377.gif
+KettleBell,KettleBell clean and press,16,x / each side,1,"TRUE",https://media.giphy.com/media/128vrPxCk9JQ6k/giphy.gif

@@ -1,0 +1,16 @@
+Package: worrkout
+Title: Generate and post workouts as a issue to a GitHub repo
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Colin",
+           family = "Fay",
+           role = c("aut", "cre"),
+           email = "contact@colinfay.me",
+           comment = c(ORCID = "0000-0001-7343-1846"))
+Description: Generate and post workouts as a issue to a GitHub repo.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    gh
+RoxygenNote: 7.1.0
