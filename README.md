@@ -13,29 +13,29 @@ Generate and post workouts as a issue to a GitHub repo.
 ``` r
 library(worrkout)
 cat(generate_workout(6))
-#> + [ ] Bodyweight - Bicycle Crunch (16 x / each side) 
-#> 
-#>  <div align = 'center'><img src ='https://thumbs.gfycat.com/CheapMadeupLeafhopper-size_restricted.gif' width = '400px'> </img></div>
-#> 
-#> + [ ] Bodyweight - Push-Up (8 x) 
-#> 
-#>  <div align = 'center'><img src ='https://media.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif' width = '400px'> </img></div>
-#> 
-#> + [ ] Bodyweight - Crawl Out to Pushup to mountain climber (8 x) 
-#> 
-#>  <div align = 'center'><img src ='https://thumbs.gfycat.com/IdenticalNervousBarb-small.gif' width = '400px'> </img></div>
-#> 
-#> + [ ] Bodyweight - Bicycle Crunch (16 x / each side) 
-#> 
-#>  <div align = 'center'><img src ='https://thumbs.gfycat.com/CheapMadeupLeafhopper-size_restricted.gif' width = '400px'> </img></div>
-#> 
-#> + [ ] Bodyweight - Push-Up (8 x) 
-#> 
-#>  <div align = 'center'><img src ='https://media.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif' width = '400px'> </img></div>
-#> 
-#> + [ ] Bodyweight - Crawl Out to Pushup to mountain climber (8 x) 
-#> 
-#>  <div align = 'center'><img src ='https://thumbs.gfycat.com/IdenticalNervousBarb-small.gif' width = '400px'> </img></div>
++ [ ] Bodyweight - Glute Bridge (16 x / each side) 
+
+ <div align = 'center'><img src ='https://thumbs.gfycat.com/ConcernedPointedHornet-size_restricted.gif' width = '400px'> </img></div>
+
++ [ ] KettleBell - KettleBell Snatch (16 x / each side) 
+
+ <div align = 'center'><img src ='https://www.sport-equipements.fr/wp-content/uploads/2018/04/goblet-snatch-kb.gif' width = '400px'> </img></div>
+
++ [ ] Bodyweight - Leg Lift (16 x) 
+
+ <div align = 'center'><img src ='https://thumbs.gfycat.com/SickBrownIsabellinewheatear-max-1mb.gif' width = '400px'> </img></div>
+
++ [ ] Bodyweight - Glute Bridge (16 x / each side) 
+
+ <div align = 'center'><img src ='https://thumbs.gfycat.com/ConcernedPointedHornet-size_restricted.gif' width = '400px'> </img></div>
+
++ [ ] KettleBell - KettleBell Snatch (16 x / each side) 
+
+ <div align = 'center'><img src ='https://www.sport-equipements.fr/wp-content/uploads/2018/04/goblet-snatch-kb.gif' width = '400px'> </img></div>
+
++ [ ] Bodyweight - Leg Lift (16 x) 
+
+ <div align = 'center'><img src ='https://thumbs.gfycat.com/SickBrownIsabellinewheatear-max-1mb.gif' width = '400px'> </img></div>
 ```
 
 ``` r
@@ -45,3 +45,5 @@ post_workout(
   owner = "ColinFay"
 )
 ```
+
+Please reuse these functions just for fun and recreational workouts.

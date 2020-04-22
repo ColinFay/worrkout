@@ -2,4 +2,4 @@
 wk <- readr::read_csv(here::here("data-raw/workout.csv"))
 wk <- tidyr::drop_na(wk, 1:6)
 
-usethis::use_data(wk)
+usethis::use_data(wk, overwrite = TRUE)

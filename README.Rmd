@@ -19,7 +19,7 @@ Generate and post workouts as a issue to a GitHub repo.
 
 > Note: obviously I'm neither a profesional athlete (in case you haven't met me before), nor a professional trainer, so in case this needs to be said, please use these for "fun" workout, and with care (and of course at your own risk).
 
-```{r}
+```{r comment=""}
 library(worrkout)
 cat(generate_workout(6))
 ```
@@ -31,5 +31,7 @@ post_workout(
   owner = "ColinFay"
 )
 ```
+
+Please reuse these functions just for fun and recreational workouts. 
 
 
