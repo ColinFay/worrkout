@@ -14,3 +14,5 @@ LazyData: true
 Imports: 
     gh
 RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)
